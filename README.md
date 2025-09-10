@@ -36,4 +36,5 @@ This project uses a mix of **frontend libraries, UI components, and utilities**:
 
 ### 1️⃣ Clone the repository
 ```bash
+git clone https://github.com/kakolihalder/diginotes.git
 
